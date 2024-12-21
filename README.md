@@ -1,3 +1,4 @@
+![Header](header.png)
 # Training projects
 
 | [Automotive](https://rodionnest.github.io/Automotive/) | [Konstruct](https://rodionnest.github.io/Konstruct/) |
