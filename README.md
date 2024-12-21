@@ -1,15 +1,6 @@
-<div align="center">
-    <img src="hello.svg" width="400" height="400" alt="css-in-readme">
-</div>
+# Training projects
+1. Konstruct
 
-<table border="0" style="border: none;">
-	<tr>
-		<td>
-        <div align="center">
-	        <img src="hello.svg" width="400" height="400" alt="css-in-readme">
-        </div>
-        </td>
-		<td>123</td>
-		<td>123</td>
-	</tr>
-</table>
+![HTML](https://img.shields.io/badge/HTML-bf5836)
+![CSS](https://img.shields.io/badge/CSS-511f78)
+![JS](https://img.shields.io/badge/JS-e8d20e)
