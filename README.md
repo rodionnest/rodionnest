@@ -1,5 +1,5 @@
 # Training projects
-## Layout
+
 | [Automotive](https://rodionnest.github.io/Automotive/) | [Konstruct](https://rodionnest.github.io/Konstruct/) | - |
 | ----------- | ----------- | ------- |
 | ![Automotive](automotive-prev.jpg) | ![Konstruct](konstruct-prev.jpg) | |
