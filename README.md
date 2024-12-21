@@ -2,7 +2,7 @@
     <img src="hello.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
-<table border=0>
+<table border="0">
 	<tr>
 		<td>
         <div align="center">
