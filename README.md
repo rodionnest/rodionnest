@@ -1,5 +1,5 @@
 ![Header](header.png)
-# Training projects
+# Layout projects
 
 | Automotive [Page](https://rodionnest.github.io/Automotive/) / [Repo](https://github.com/rodionnest/Automotive)| Konstruct [Page](https://rodionnest.github.io/Konstruct/) / [Repo](https://github.com/rodionnest/Konstruct)|
 | ----------- | ----------- |
